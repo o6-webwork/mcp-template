@@ -1,0 +1,5 @@
+aiohttp==3.11.18
+nest_asyncio==1.6.0
+python-dotenv==1.1.0
+openai==1.77.0
+mcp==1.6.0
