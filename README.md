@@ -14,7 +14,7 @@
 </p>
 
 
-This project connects a local LLM (e.g. Qwen) to tools such as a calculator or a knowledge base via the [MCP](https://github.com/OpenBioLink/mcp) protocol. The assistant automatically detects and calls these tools to help answer user queries.
+This project connects a local LLM (e.g. Qwen) to tools such as a calculator or a knowledge base via the [MCP](https://github.com/modelcontextprotocol) protocol. The assistant automatically detects and calls these tools to help answer user queries.
 
 ---
 
